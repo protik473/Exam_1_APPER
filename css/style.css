@@ -1623,6 +1623,6 @@ footer .bottom_footer .developer_text a {
 }
 .go_top{
     position:fixed;
-    bottom:17px;
     left:17px;
+    bottom:50px;
 }
