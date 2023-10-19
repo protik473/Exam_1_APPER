@@ -1621,3 +1621,8 @@ footer .bottom_footer .developer_text {
 footer .bottom_footer .developer_text a {
     text-decoration: underline;
 }
+.go_top{
+    position:fixed;
+    bottom:17px;
+    left:17px;
+}
