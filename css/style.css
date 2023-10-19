@@ -1627,4 +1627,5 @@ footer .bottom_footer .developer_text a {
     position:fixed;
     left:17px;
     bottom:50px;
+    z-index:99999;
 }
